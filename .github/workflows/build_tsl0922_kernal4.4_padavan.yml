@@ -37,7 +37,7 @@ on:
         - Xiaoyu_C3
         - Xiaoyu_C5
         - ZTE_E8820S
-        default: Xiaoyu_C1
+        default: Phicomm_K2P
       plugins:
         description: 'json format string of include configs'
         required: true
